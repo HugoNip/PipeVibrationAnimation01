@@ -3,13 +3,13 @@
 This project is used to generate the Pipe Vibration Animation.
 
 ## Case 1: One Corner
-![Capture1c.PNG](https://github.com/HugoNip/pipeVibrationAnimation01/blob/master/Data/Capture1c.PNG)
+![Capture1c.jpg](https://github.com/HugoNip/pipeVibrationAnimation01/blob/master/Data/Capture1c.jpg)
 
 ## Case 2: Four Corners
-![Capture4c.png](https://github.com/HugoNip/pipeVibrationAnimation01/blob/master/Data/Capture4c.png)
+![Capture4c.jpg](https://github.com/HugoNip/pipeVibrationAnimation01/blob/master/Data/Capture4c.jpg)
 
 ## Case 3: Two Parallel Lines
-![Capture2L.PNG](https://github.com/HugoNip/pipeVibrationAnimation01/blob/master/Data/Capture2L.PNG)
+![Capture2L.jpg](https://github.com/HugoNip/pipeVibrationAnimation01/blob/master/Data/Capture2L.jpg)
 
 # Requirement
 Unity3D Version: 2018.4.23f1  
