@@ -18,3 +18,6 @@ This project is used to generate the Pipe Vibration Animation.
 
 # File Naming
 ![CapturePanel2.jpg](https://github.com/HugoNip/pipeVibrationAnimation01/blob/master/Data/CapturePanel2.jpg)
+
+# Speed
+60 fps
